@@ -18,3 +18,16 @@ body {
 .nav-link{
     color: #545454;
 }
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 48px;
+    background-color: #545454;
+    color: #fffaf4;
+}
+
+.centralizado{
+    text-align: center;
+}
